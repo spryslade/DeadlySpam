@@ -31,14 +31,14 @@ async def alive(event):
   if event.sender_id in SUDO_USERS:
      await BOT0.send_file(event.chat_id,
                                   DEAD_PIC,
-                                  caption=DEADLY,
+                                  caption=ASTOR,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/DEADLY_SPAMBOT"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DEADLY_SPAM_BOT")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/AstorPro"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/AstorSupport")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Team-Deadly/DEADLY-SPAMBOT")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/spryslade/DeadlySpam")
         ]
         ]
         )

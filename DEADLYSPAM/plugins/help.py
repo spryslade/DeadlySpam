@@ -7,7 +7,7 @@ from DEADLYSPAM import CMD_HNDLR as hl
     
 HELP_PIC = "https://telegra.ph/file/e9a49fa126c6dd1f340c0.jpg"
 
-DEAD_Help = "🔥 Dᴇᴀᴅʟʏ Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
+DEAD_Help = "🔥 Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
  
 DEAD_Help += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
 
